@@ -7,7 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.1] - 2024-05-30
+
 ### Added
 
 - Initial commit with all basic functionality
 
+[unreleased]: https://github.com/ellomenop/Hades2-BigRedPauseButton/compare/0.0.1...HEAD
+[0.0.1]: https://github.com/ellomenop/Hades2-BigRedPauseButton/compare/57f992a97dd912dbc8d36a8331852dbab8855420...0.0.1
