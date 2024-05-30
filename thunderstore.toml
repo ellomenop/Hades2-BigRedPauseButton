@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 namespace = "ellomenop"
 name = "BigRedPauseButton"
 versionNumber = "0.0.1"
-description = "Allows you to pause the game at any time"
+description = "Allows you to pause while in the imGUI menu"
 websiteUrl = "https://github.com/ellomenop/Hades2-BigRedPauseButton"
 containsNsfwContent = false
 
