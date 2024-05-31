@@ -7,9 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Configurable keybinds in game
+
 ### Fixed
 
 - Removed reference to sjson mod as its not a dependency
+- Removed ready.lua import as its unneeded
 
 ## [0.0.1] - 2024-05-30
 

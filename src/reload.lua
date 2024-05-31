@@ -8,7 +8,6 @@ function StartPauseWatcher()
     thread_running = true
 
     while thread_running do
-		game.ClearSimSpeedChanges()
 		if config.running then
 			game.AddSimSpeedChange("bigredpausebutton", {Fraction = 0, LerpTime = 0, Priority = true})
 		end
