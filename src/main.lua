@@ -21,8 +21,6 @@ _PLUGIN = PLUGIN
 game = rom.game
 import_as_fallback(game)
 
----@module 'SGG_Modding-SJSON'
-sjson = mods['SGG_Modding-SJSON']
 ---@module 'SGG_Modding-ModUtil'
 modutil = mods['SGG_Modding-ModUtil']
 
@@ -43,7 +41,6 @@ local function on_ready()
 	rom.gui.add_imgui(function()
 		if rom.ImGui.Begin("Big Red Pause Button") then
 
-		
 			rom.ImGui.Text("Green = paused, red = unpaused:")
 
 			local color = { 1, 0, 0, 1 }
@@ -64,8 +61,6 @@ local function on_ready()
 			rom.ImGui.End()
 		end
 	end)
-
-	import 'ready.lua'
 end
 
 local function on_reload()
