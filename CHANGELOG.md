@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.2] - 2024-05-31
+
 ### Added
 
 - Configurable keybinds in game
@@ -22,5 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial commit with all basic functionality
 
-[unreleased]: https://github.com/ellomenop/Hades2-BigRedPauseButton/compare/0.0.1...HEAD
+[unreleased]: https://github.com/ellomenop/Hades2-BigRedPauseButton/compare/0.0.2...HEAD
+[0.0.2]: https://github.com/ellomenop/Hades2-BigRedPauseButton/compare/0.0.1...0.0.2
 [0.0.1]: https://github.com/ellomenop/Hades2-BigRedPauseButton/compare/57f992a97dd912dbc8d36a8331852dbab8855420...0.0.1
